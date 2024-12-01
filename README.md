@@ -33,7 +33,7 @@
 
 ## Tools
 
-* [AWS RDS Health](https://github.com/zalando/rds-health)
+[Refer Tools for Developers](/tools-for-developers.md)
 
 ## Guides
 * [API design guide](https://cloud.google.com/apis/design/)

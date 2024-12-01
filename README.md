@@ -3,6 +3,7 @@
 ## Languages
 
 * [Java Annotated by JetBrains](https://blog.jetbrains.com/idea/tag/java-annotated/)
+
 * [TheServerSide](https://www.theserverside.com/)
 
 
@@ -12,6 +13,10 @@
 ## Architecture
 
 * [Kamil Grzybek](https://www.kamilgrzybek.com/blog)
+
+* [Architecture Notes](https://architecturenotes.co/)
+
+* [Martin Fowler](https://martinfowler.com/)
 
 ## Database
 
@@ -23,7 +28,15 @@
 
 ## Everything
 
-* [My Developer Planet](https://mydeveloperplanet.com/) - Java, Spring Boot, Docker & Database related content
+* [My Developer Planet](https://mydeveloperplanet.com/)
+
+* [Big-O cheat sheet](https://www.bigocheatsheet.com/)
+
+* [dev.to](https://dev.to/)
+
+* [Learn Anything](https://learn-anything.xyz/)
+
+* [GeekNight India Edition](https://chennai.geeknight.in/)
 
 ## Company Engineering Blog
 
@@ -33,14 +46,14 @@
 
 ## Tools
 
-[Refer Tools for Developers](/tools-for-developers.md)
+[Refer here](/tools-for-developers.md)
 
 ## Guides
 * [API design guide](https://cloud.google.com/apis/design/)
 * [Zalango API guide](https://github.com/zalando/restful-api-guidelines)
 
-## Articles I liked
-* []()
+## Articles & Videos I liked
+* [Refer here](/articles-and-videos-i-liked.md)
 
 ## Software People to follow in Twitter (my curated list)
 

@@ -2,13 +2,14 @@
 
 ## Languages
 
-## Testing
+* [Java Annotated by JetBrains](https://blog.jetbrains.com/idea/tag/java-annotated/)
 
-[Unit Testing](https://eliasnogueira.com/blog/)
+## Unit Testing
+
 
 ## Architecture
 
-* [Kamil Grzybek ](https://www.kamilgrzybek.com/blog)
+* [Kamil Grzybek](https://www.kamilgrzybek.com/blog)
 
 ## Database
 
@@ -26,6 +27,7 @@
 
 * [Thoughtworks Technology Radar](https://www.thoughtworks.com/radar/byor)
 * [Zalando Engineering Blog](https://engineering.zalando.com/)
+* [InfoQ.com](https://www.infoq.com/)
 
 ## Tools
 
@@ -34,4 +36,10 @@
 ## Guides
 * [API design guide](https://cloud.google.com/apis/design/)
 * [Zalango API guide](https://github.com/zalando/restful-api-guidelines)
-* 
+
+## Articles I liked
+* []()
+
+## Software People to follow in Twitter (my curated list)
+
+* [https://x.com/i/lists/1863132465927454986](https://x.com/i/lists/1863132465927454986) 
